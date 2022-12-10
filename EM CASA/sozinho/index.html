@@ -7,6 +7,20 @@
         <title>Document</title>
     </head>
     <body>
+
+<ul>
+    <li class="item" id="item-1">Item1</li>
+    <li class="item" id="item-2">Item2</li>
+    <li class="item" id="item-3">Item3</li>
+    <li class="item" id="item-4" name="alterar">Item4</li>
+</ul>
+
+<button onclick="fundoCor()">Cor</button>
+<button onclick="sumir()">Sumir</button>
+
+
+
+
         <script>
             var num = 5;
             var num2 = 10;
@@ -26,6 +40,24 @@
             }else{
                 console.log("Boa noie")
             }
+
+            console.clear()
+            function fundoCor(){
+                const item1 = document.getElementsByClassName('item') 
+                item1[0].style.background = 'blue'
+                console.log(item)
+            }
+
+            const item3 = document.getElementById('item-3')
+            function sumir(){
+                item3.remove()
+            }
+            
+            
+
+
+
+            
         </script>
     </body>
 </html>

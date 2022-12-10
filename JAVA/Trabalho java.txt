@@ -1,0 +1,29 @@
+Spring
+
+Spring é um framework que tem o objetivo de facilitar a criação de aplicações Java,
+que utiliza diversos módulos independentes como Spring Boot, Spring Data, O
+Spring MVC, Spring Security e Spring Mobile para dar suporte na aplicação. 
+
+Hibernate
+
+Hibernate é um framework Java que trabalha com a conversão de dados em objetos,
+ajudando a os desenvolvedores gastarem menos tempo em questão de ter
+que fazer isso manualmente 
+
+O quê é JVM, JDK e JRE?
+
+JVM dá a partida no seu código Java. Ele carrega e executa os aplicativos feitos em Java.
+JDK é basicamente são as ferramentas que o dev em processo de criação de códigos, 
+como bibliotecas e compiladore.
+
+O quê é o Java e por qual motivo foi criado?
+
+Java é uma linguagem de programação criada que pode ser utilização em equipamentos,
+segurança de servidores, sistema de gestão e etc.
+
+
+Qual a diferença entre JSE, JME e JEE?
+
+JSE é o ambiente de desenvolvimento utilizado em servidores. JME é um ambiente de desenvolvimento
+voltado para dispositivos móveis. E JEE e um  conjunto de APIs para a  execução seguras
+para o servidor 
